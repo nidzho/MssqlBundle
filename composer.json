@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "doctrine/common": "~2.2,>=2.2.3"
+        "doctrine/common": "*"
     },
     "autoload": {
         "psr-0": {
